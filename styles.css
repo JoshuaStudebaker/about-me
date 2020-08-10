@@ -1,3 +1,13 @@
 .bonus {
   color: red;
 }
+.picture {
+  border-radius: 1px;
+}
+
+h1 {
+  font-size: medium;
+}
+ul {
+  text-emphasis: underline;
+}
