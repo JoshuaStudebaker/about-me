@@ -4,6 +4,7 @@
 body {
   background-color: #093e09;
   color: lightgrey;
+  font-family: "Balthazar", serif;
 }
 .picture {
   border-radius: 40px;
@@ -29,7 +30,7 @@ body {
 
 .box2 {
   width: 450px;
-  background-color: navy;
+  background-color: rgb(3, 3, 118);
   height: 450px;
   border-color: silver;
   border-style: ridge;
