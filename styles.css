@@ -1,5 +1,9 @@
 .bonus {
-  color: red;
+  color: rgb(174, 171, 171);
+}
+body {
+  background-color: #093e09;
+  color: lightgrey;
 }
 .picture {
   border-radius: 40px;
@@ -11,9 +15,6 @@
   border-color: red;
 }
 
-h1 {
-  font-size: medium;
-}
 .text-underline {
   text-emphasis: underline;
 }
@@ -26,6 +27,20 @@ h1 {
   border-radius: 40px;
 }
 
-figcaption {
-  text-align: right;
+.box2 {
+  width: 450px;
+  background-color: navy;
+  height: 450px;
+  border-color: silver;
+  border-style: ridge;
+  border-radius: 40px;
+}
+.picture2 {
+  border-radius: 40px;
+  width: 450px;
+  display: block;
+  margin-left: 150px;
+  margin-top: 50px;
+  border-style: ridge;
+  border-color: silver;
 }
